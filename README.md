@@ -2,6 +2,10 @@
 <h1 align="center"><img alt="oneuptime logo" width=50% src="https://raw.githubusercontent.com/OneUptime/oneuptime/master/App/FeatureSet/Home/Static/img/OneUptimePNG/7.png"/></h1>
 <!-- markdownlint-enable MD033 -->
 
+
+#### 可观察性平台。它以其一体化的平台，取代了多个工具，能够从世界各地的不同位置监控在线服务的可用性和响应时间。一旦出现问题，用户可以通过邮件、短信、Slack等渠道得到通知。总之，OneUptime是一个用于监控和确保线上服务稳定性和可靠性的工具。
+
+
 ### OneUptime: The Complete Open-Source Observability Platform
 
 OneUptime is a comprehensive solution for monitoring and managing your online services. Whether you need to check the availability of your website, dashboard, API, or any other online resource, OneUptime can alert your team when downtime happens and keep your customers informed with a status page. OneUptime also helps you handle incidents, set up on-call rotations, run tests, secure your services, analyze logs, track performance, and debug errors.
